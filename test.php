@@ -1,5 +1,5 @@
 <?php
-echo "jenkins connected";
+echo "jenkins connected hello";
 
 
 ?>
